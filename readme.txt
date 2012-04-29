@@ -13,3 +13,4 @@ This plugin allows user to nominate their favourites using their facebook or twi
 Ans: yes it is easy to install and use.
 An answer to that question.
 == Screenshots ==
+1. it allows user to nominate and vote
