@@ -4,7 +4,7 @@ Plugin Name: nomination and voting
 Plugin URI: #
 Description: nomination and voting 
 Author: macmonir
-Version: 
+Version: 1.0
 Author URI: #
 */
 
